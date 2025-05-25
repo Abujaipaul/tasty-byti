@@ -471,11 +471,18 @@ label{
 .roll1, .roll2{
     display: block;
 }
-
-  .thirdphase{
-    padding-bottom: 3900px;
-   }
-
+.res_third{
+    padding-bottom: 1800px;
+}
+.catering_bg{
+    height: 400px;
+}
+.order_bg{
+    height: 450px;
+}
+.order_third{
+    height: 3850px;
+}
 
 
 }
